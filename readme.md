@@ -11,4 +11,4 @@
 - Webpack
 - Axios
 
-![todos](./todos.jpg)
+![todos](./todos.png)
