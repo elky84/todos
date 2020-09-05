@@ -12,7 +12,7 @@
 
 # Todos project. (web based ToDo List)
 - GNU GPL(General Public License) license.
-- author : elky (elkykim@gmail.com)
+- author : elky (elky84@gmail.com)
 
 ## Server
 <img src="https://img.shields.io/badge/made%20with-Node.js-yellow.svg" alt="made with Node.js">
